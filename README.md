@@ -1,9 +1,9 @@
 # Anjani-task
 
-- create new project using expo 
-- use animation 
-- use firebase DB
-- use firebase auth 
-- use navigation
+- Create new project using expo 
+- Use animation 
+- Use firebase DB
+- Use firebase auth 
+- Use navigation
 
 Best :) 
